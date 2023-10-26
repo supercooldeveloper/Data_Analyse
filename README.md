@@ -1,2 +1,2 @@
-# Data_Analyse
-Repository for python labs
+# Data_Analysis
+This Repository is for python labs
